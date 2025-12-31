@@ -1,0 +1,5 @@
+{
+  "name": "Web3 Contract Terminal",
+  "description": "一个高性能的 Web3 资产管理仪表盘，用于使用 React、TailwindCSS 和 Ethers.js v6 测试 RBAC ERC20 合约。",
+  "requestFramePermissions": []
+}
