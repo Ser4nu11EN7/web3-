@@ -1,0 +1,5 @@
+{
+  "name": "Web3 RBAC Console",
+  "description": "A high-fidelity simulation of a Role-Based Access Control system for Web3 assets, featuring Admin, Pauser, Compliance, and User interactions.",
+  "requestFramePermissions": []
+}
