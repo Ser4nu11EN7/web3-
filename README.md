@@ -1,7 +1,3 @@
-<div align="center">
-  <img width="1200" height="475" alt="Web3 RBAC Console Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
 # Web3 RBAC Console
 
 一个纯前端的 Web3 权限管理/演示控制台（React + Vite + ethers）。用于连接一个带 RBAC（AccessControl）的 ERC20 合约，在浏览器里直观地执行并观察：授权/撤权、暂停/恢复、黑名单、转账等操作以及链上回滚原因。
